@@ -27,10 +27,3 @@ I'm a passionate **Software Developer** with experience in building and maintain
 - LinkedIn: https://www.linkedin.com/in/nithishkumar2003
 - GitHub: https://github.com/nithish2201
 
-Feel free to check out my repositories and let's collaborate on exciting projects! 🚀
-
-
-<!---
-nithish2201/nithish2201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
