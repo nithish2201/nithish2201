@@ -25,7 +25,7 @@ I'm a passionate **Software Developer** with experience in building and maintain
 ## 📫 How to reach me:
 - Email: nithish220103@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nithishkumar2003
-- GitHub: [Your GitHub Profile]
+- GitHub: https://github.com/nithish2201
 
 Feel free to check out my repositories and let's collaborate on exciting projects! 🚀
 
